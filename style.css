@@ -20,3 +20,35 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+
+.cat-a {
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.cat-b {
+  background-color: orchid;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.cat-c {
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.catagories h1 {
+  color: white;
+}
+.catagories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+#contact-us h6 {
+  color: red;
+}
+footer {
+  text-align: center;
+}
